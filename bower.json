@@ -1,0 +1,6 @@
+{
+  "name": "app-session",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0"
+  }
+}
